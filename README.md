@@ -13,6 +13,8 @@ View the interactive dashboard on Tableau Public:
 
 https://public.tableau.com/views/SupermarketDashboard_17726383087870/SuperstoreSalesDashboard2024?:language=zh-TW&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+![Dashboard Preview](Superstore-Sales-Dashboard-2024.png)
+
 ---
 
 ## Business Questions
